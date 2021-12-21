@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React, Typescript, Tailwindcss, Redux Toolkit, eslint with Vite
 
 This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind](https://tailwindcss.com/) + [RTK](https://redux-toolkit.js.org/) + [eslint](https://eslint.org/) boilerplate built with [Vite](https://vitejs.dev).
@@ -55,3 +56,6 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
     ```bash
     npm run serve
     ```
+=======
+# react-tailwind
+>>>>>>> 9752030f0680cdb7aa86d751ff7aea84cf59534a
